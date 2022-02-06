@@ -151,9 +151,9 @@ header .social-icon {
 }
 header .social-icon li a {
   border: none;
-  width: 20px;
-  height: 20px;
-  line-height: 20px;
+  width: 15px;
+  height: 15px;
+  line-height: 15px;
   text-align: center;
 }
 /* end header */
@@ -461,7 +461,7 @@ header .social-icon li a {
   margin: 0;
 }
 .social-icon h4 {
-  display: inline-block;
+  display: block;
   padding-right: 20px;
 }
 .social-icon li {
